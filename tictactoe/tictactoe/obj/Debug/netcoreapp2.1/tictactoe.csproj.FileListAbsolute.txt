@@ -1,0 +1,14 @@
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\bin\Debug\netcoreapp2.1\tictactoe.deps.json
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\bin\Debug\netcoreapp2.1\tictactoe.runtimeconfig.json
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\bin\Debug\netcoreapp2.1\tictactoe.runtimeconfig.dev.json
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\bin\Debug\netcoreapp2.1\tictactoe.dll
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\obj\Debug\netcoreapp2.1\tictactoe.csprojAssemblyReference.cache
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\obj\Debug\netcoreapp2.1\tictactoe.csproj.CoreCompileInputs.cache
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\obj\Debug\netcoreapp2.1\tictactoe.RazorAssemblyInfo.cache
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\obj\Debug\netcoreapp2.1\tictactoe.RazorAssemblyInfo.cs
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\obj\Debug\netcoreapp2.1\tictactoe.AssemblyInfoInputs.cache
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\obj\Debug\netcoreapp2.1\tictactoe.AssemblyInfo.cs
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\obj\Debug\netcoreapp2.1\tictactoe.RazorTargetAssemblyInfo.cache
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\bin\Debug\netcoreapp2.1\tictactoe.pdb
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\obj\Debug\netcoreapp2.1\tictactoe.dll
+C:\Users\siva kumar\source\repos\tic_tac_toe_game\tictactoe\tictactoe\obj\Debug\netcoreapp2.1\tictactoe.pdb
